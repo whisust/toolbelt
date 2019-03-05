@@ -48,6 +48,7 @@ This is more of a reminder of what I know, for my future self to not forget.
 
 ### Monitoring
 - Datadog -> Store metrics, create dashboards, define alerting, forget everything about logs
+- Metrics -> com.codahale.metrics.SharedMetricRegistries 
 - Statsd -> Collect metrics at system level
 - Pagerduty -> You liked that sweet weekend? Well here's a software crackdown you must solve now
 
