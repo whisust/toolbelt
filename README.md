@@ -8,8 +8,8 @@ This is more of a reminder of what I know, for my future self to not forget.
   - Typelevel library family
   - Cats, i luv u
   - fs2 streams, i luv u
-- Rust, learning -> bare metal performances with type safe and memory safe guarantees
-- Clojure, learning -> learn too quickly prototype programs
+- Rust, learning -> bare metal performances with type safety and memory safe guarantees
+- Clojure, learning -> learn to quickly prototype programs
 - Javascript, should learn it a bit more -> learn it before learning a frontend framework, looking for vue
 - Java up to 8 -> I just feel better and better not coding in java anymore
 - Bash -> Automate all the things
